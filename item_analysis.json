@@ -1,0 +1,108 @@
+[
+  {
+    "data": {
+      "set": "",
+      "type": "weapon",
+      "stats": {
+        "ATK": 1056,
+        "ATK Bonus": 18.5,
+        "Crit. DMG": 26,
+        "ATK Spd.": 77,
+        "HP": 1995,
+        "Variant": "aggression"
+      }
+    }
+  },
+  {
+    "data": {
+      "set": "warlord",
+      "type": "breastplate",
+      "stats": {
+        "ATK": 525,
+        "ATK Bonus": 23.5,
+        "Crit. DMG": 25.5,
+        "ATK Spd.": 90,
+        "HP": 3960
+      }
+    }
+  },
+  {
+    "data": {
+      "set": "",
+      "type": "breastplate",
+      "stats": {
+        "ATK": 406,
+        "ATK Bonus": 20.5,
+        "Crit. DMG": 32,
+        "Crit. Rate": 19,
+        "HP": 3960
+      }
+    }
+  },
+  {
+    "data": {
+      "set": "",
+      "type": "weapon",
+      "stats": {
+        "ATK": 960,
+        "ATK Bonus": 18.5,
+        "Crit. Rate": 22,
+        "DEF Bonus": 13.5,
+        "Rage Regen": 22,
+        "Variant": "last_stand"
+      }
+    }
+  },
+  {
+    "data": {
+      "set": "infernal_roar roar",
+      "type": "bangle",
+      "stats": {
+        "ATK": 382,
+        "ATK Bonus": 66,
+        "Crit. DMG": 36,
+        "Crit. Rate": 23.5,
+        "ATK Spd.": 89
+      }
+    }
+  },
+  {
+    "data": {
+      "set": "soulbound_arcana",
+      "type": "amulet",
+      "stats": {
+        "Crit. DMG": 72,
+        "Crit. Rate": 18.5,
+        "ATK Spd.": 57,
+        "HP": 1970,
+        "HP Bonus": 19.5
+      }
+    }
+  },
+  {
+    "data": {
+      "set": "invigoration\noe",
+      "type": "amulet",
+      "stats": {
+        "ATK": 493,
+        "ATK Spd.": 75,
+        "DEF Bonus": 22.5,
+        "Healing Effect": 66,
+        "Rage Regen": 13
+      }
+    }
+  },
+  {
+    "data": {
+      "set": "ageless_wrath wrath",
+      "type": "",
+      "stats": {
+        "ATK": 436,
+        "ATK Bonus": 66,
+        "Crit. DMG": 31,
+        "Crit. Rate": 16,
+        "ATK Spd.": 67
+      }
+    }
+  }
+]
